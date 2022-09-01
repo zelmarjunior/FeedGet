@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 
+.classe {
+    @apply bg-blue-700 px-2 h-8 rounded;
+}
+*/
+
+body {
+    @apply bg-[#09090A] text-zinc-100
+}

@@ -1,0 +1,10 @@
+Node 
+npm init -y 
+instalar dependencias
+    typescript
+    ts-node-dev
+
+    EXPRESS
+    SQL Lite
+    PRISMA
+JEST - fREMEWORK DE TESTE

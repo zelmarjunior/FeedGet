@@ -1,0 +1,11 @@
+Aprendi a utilizar o Vite (Montagem do abiente)
+Aprendi a usar o Tailwind (Framework CSS) - https://tailwindcss.com/
+    ('@tailwindcss/forms') e Scroll bar, da pra pegar conjuntos de estilos prontos (Form, Scrolbar e outros)
+Aprendendo a usar React
+    Componetização
+Aprendendo a usar TSX (Type Script)
+Aprendendo usar PHOSPHOR biblioteca de ícones - https://phosphoricons.com/
+Headless - Conceitos de acessibilidade bibliotrca de acessibilidade do Taiwind - https://headlessui.dev/
+
+-----
+Bootstrap

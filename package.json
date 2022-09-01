@@ -1,0 +1,16 @@
+{
+  "name": "feedget",
+  "version": "1.0.0",
+  "description": "q",
+  "main": "q",
+  "dependencies": {
+    "@expo-google-fonts/inter": "^0.2.2",
+    "expo-font": "^10.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
